@@ -41,7 +41,7 @@ In provided dataset, participants will get "idx" (the index of the tweet), "id" 
 }]
 ```
 # Download
-Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/FinNum/FinNum.zip) to download data.
+Download ```FinNum.zip``` for the data.
 
 # How to Cite the Corpus
 Please cite the following paper when referring to the FinNum in academic publications and papers.
